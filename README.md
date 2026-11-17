@@ -1,8 +1,6 @@
 # International-relation
 
 ##International relations (IR) is the study of how sovereign states, intergovernmental organizations, and non-state actors interact with one another across national boundaries
-
----
 ###
 Core Meaning and Scope
 
