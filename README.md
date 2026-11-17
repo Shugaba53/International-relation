@@ -5,17 +5,19 @@
 Core Meaning and Scope
 
 >  Interactions across borders: It examines political, economic, social, and security exchanges—such as diplomacy, global trade, alliances, and warfare—that occur between countries.
+
 >  Multidisciplinary field: It draws from political science, history, economics, law, sociology, psychology, and philosophy.
+
 >  Anarchic system: A foundational concept in IR is that the global system operates without a single central world government or global law enforcement, meaning states often rely on self-help, pacts, and power balancing to survive.
 
 *
 Key Actors
 
-• Nation-States: Sovereign countries (e.g., United States, China, Nigeria, Brazil) that act as the primary legal and political units in global affairs.
-• International and Intergovernmental Organizations (IGOs): Bodies formed by states to manage collective issues, such as the United Nations (UN), World Bank, and International Monetary Fund (IMF).
-• Non-State Actors: Multinational corporations (MNCs), non-governmental organizations (NGOs like Amnesty International), and transnational or armed groups that influence global policy.
----
-**
+1. Nation-States: Sovereign countries (e.g., United States, China, Nigeria, Brazil) that act as the primary legal and political units in global affairs.
+2.  International and Intergovernmental Organizations (IGOs): Bodies formed by states to manage collective issues, such as the United Nations (UN), World Bank, and International Monetary Fund (IMF).
+3. Non-State Actors: Multinational corporations (MNCs), non-governmental organizations (NGOs like Amnesty International), and transnational or armed groups that influence global policy.
+--
+
 Major Theoretical Frameworks
 
 • Realism: Focuses on power, national interest, and security in an anarchic world where states compete to survive.
