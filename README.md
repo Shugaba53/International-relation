@@ -4,9 +4,9 @@
 ###
 Core Meaning and Scope
 
-• Interactions across borders: It examines political, economic, social, and security exchanges—such as diplomacy, global trade, alliances, and warfare—that occur between countries.
-• Multidisciplinary field: It draws from political science, history, economics, law, sociology, psychology, and philosophy.
-• Anarchic system: A foundational concept in IR is that the global system operates without a single central world government or global law enforcement, meaning states often rely on self-help, pacts, and power balancing to survive.
+>  Interactions across borders: It examines political, economic, social, and security exchanges—such as diplomacy, global trade, alliances, and warfare—that occur between countries.
+>  Multidisciplinary field: It draws from political science, history, economics, law, sociology, psychology, and philosophy.
+>  Anarchic system: A foundational concept in IR is that the global system operates without a single central world government or global law enforcement, meaning states often rely on self-help, pacts, and power balancing to survive.
 
 *
 Key Actors
